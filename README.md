@@ -1,0 +1,2 @@
+# amc.gov.af.
+new
